@@ -1,0 +1,11 @@
+# Core process-mining version used by the analysis
+pm4py==2.7.23.3
+
+# Supporting packages used directly by the notebooks
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+requests
+psutil
