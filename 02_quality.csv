@@ -1,0 +1,43 @@
+faculty,role,notion,miner,traces,events,activities,mean_len,sample_requested,seed,max_trace_len,disc_s,places,transitions,arcs,silent,simplicity,fitness,generalization,precision,prec_s,prec_note
+FEB,Student,course,alpha,75,21521,40,286.9,75,42,2000,0.0,10,40,40,0,1.0,0.0773,0.7225,0.12,33.1,
+FEB,Student,course,heuristic,75,21521,40,286.9,75,42,2000,0.3,70,164,365,124,0.4718,0.9747,0.6702,0.1749,223.3,
+FEB,Student,course,inductive,75,21521,40,286.9,75,42,2000,5.7,95,154,332,114,0.6,0.9902,0.7972,0.0562,615.2,
+FEB,Student,user,alpha,40,34734,45,868.4,40,42,2000,0.0,9,45,31,0,1.0,0.1003,0.7483,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FEB,Student,user,heuristic,40,34734,45,868.4,40,42,2000,0.3,80,192,421,147,0.4772,0.9773,0.636,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FEB,Student,user,inductive,40,34734,45,868.4,40,42,2000,13.6,95,162,344,117,0.5963,0.9878,0.7537,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIF,Student,course,alpha,75,23982,48,319.8,75,42,2000,0.0,12,48,46,0,1.0,0.1031,0.7402,0.1191,52.1,
+FIF,Student,course,heuristic,75,23982,48,319.8,75,42,2000,0.5,86,198,448,150,0.4641,0.9735,0.6439,0.1331,408.6,
+FIF,Student,course,inductive,75,23982,48,319.8,75,42,2000,8.0,164,242,526,194,0.6285,0.9999,0.7659,0.049,5189.5,
+FIF,Student,user,alpha,40,31529,51,788.2,40,42,2000,0.0,13,51,45,0,1.0,0.0766,0.699,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIF,Student,user,heuristic,40,31529,51,788.2,40,42,2000,0.3,82,207,457,156,0.4624,0.9741,0.6566,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIF,Student,user,inductive,40,31529,51,788.2,40,42,2000,13.5,153,236,504,185,0.6284,1.0,0.7676,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIK,Student,course,alpha,75,11173,34,149.0,75,42,2000,0.0,9,34,40,0,1.0,0.1095,0.7586,0.2111,14.1,
+FIK,Student,course,heuristic,75,11173,34,149.0,75,42,2000,0.1,56,140,306,106,0.4712,0.965,0.6421,0.1225,79.5,
+FIK,Student,course,inductive,75,11173,34,149.0,75,42,2000,2.2,93,148,316,114,0.6164,1.0,0.7855,0.062,790.7,
+FIK,Student,user,alpha,40,23897,36,597.4,40,42,2000,0.0,9,36,36,0,1.0,0.136,0.7667,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIK,Student,user,heuristic,40,23897,36,597.4,40,42,2000,0.2,58,153,329,117,0.472,0.9814,0.6868,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIK,Student,user,inductive,40,23897,36,597.4,40,42,2000,5.4,63,109,232,73,0.589,0.9857,0.8151,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIT,Student,course,alpha,75,11181,37,149.1,75,42,2000,0.0,10,37,40,0,1.0,0.1313,0.7064,0.1465,13.1,
+FIT,Student,course,heuristic,75,11181,37,149.1,75,42,2000,0.1,53,137,295,100,0.475,0.9858,0.68,0.1875,104.5,
+FIT,Student,course,inductive,75,11181,37,149.1,75,42,2000,2.1,105,157,340,120,0.6268,1.0,0.7803,0.0561,610.6,
+FIT,Student,user,alpha,40,24000,45,600.0,40,42,2000,0.0,11,45,40,0,1.0,0.0889,0.6417,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIT,Student,user,heuristic,40,24000,45,600.0,40,42,2000,0.2,71,170,368,125,0.4869,0.9865,0.6211,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FIT,Student,user,inductive,40,24000,45,600.0,40,42,2000,6.8,110,167,360,122,0.6253,0.9999,0.7417,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FKB,Student,course,alpha,75,12507,34,166.8,75,42,2000,0.0,9,34,39,0,1.0,0.1033,0.7436,0.1619,11.6,
+FKB,Student,course,heuristic,75,12507,34,166.8,75,42,2000,0.1,46,124,267,91,0.467,0.9779,0.6792,0.1088,88.3,
+FKB,Student,course,inductive,75,12507,34,166.8,75,42,2000,2.5,60,102,218,68,0.5912,0.9815,0.8383,0.0628,185.1,
+FKB,Student,user,alpha,40,34937,42,873.4,40,42,2000,0.0,9,42,36,0,1.0,0.1017,0.728,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FKB,Student,user,heuristic,40,34937,42,873.4,40,42,2000,0.2,63,169,367,127,0.4622,0.9832,0.6649,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FKB,Student,user,inductive,40,34937,42,873.4,40,42,2000,12.2,111,177,378,135,0.6154,1.0,0.7637,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FRI,Student,course,alpha,75,16734,37,223.1,75,42,2000,0.0,11,37,39,0,1.0,0.0952,0.6824,0.1011,27.8,
+FRI,Student,course,heuristic,75,16734,37,223.1,75,42,2000,0.1,60,143,316,106,0.4732,0.9869,0.6413,0.1269,404.6,
+FRI,Student,course,inductive,75,16734,37,223.1,75,42,2000,8.1,82,129,276,92,0.6188,0.9972,0.7826,0.044,815.8,
+FRI,Student,user,alpha,40,30829,38,770.7,40,42,2000,0.0,10,38,35,0,1.0,0.1279,0.7667,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FRI,Student,user,heuristic,40,30829,38,770.7,40,42,2000,0.2,67,168,366,130,0.4728,0.9907,0.6658,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FRI,Student,user,inductive,40,30829,38,770.7,40,42,2000,12.2,94,152,324,114,0.6119,0.9999,0.7213,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FTE,Student,course,alpha,75,21749,37,290.0,75,42,2000,0.0,11,37,42,0,1.0,0.113,0.7564,0.1694,49.7,
+FTE,Student,course,heuristic,75,21749,37,290.0,75,42,2000,0.2,56,134,298,97,0.468,0.9752,0.7081,0.1318,184.0,
+FTE,Student,course,inductive,75,21749,37,290.0,75,42,2000,7.1,86,141,298,104,0.6152,1.0,0.8051,0.0536,1461.3,
+FTE,Student,user,alpha,40,37363,41,934.1,40,42,2000,0.1,9,41,34,0,1.0,0.1035,0.7879,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FTE,Student,user,heuristic,40,37363,41,934.1,40,42,2000,0.3,76,195,427,154,0.4648,0.9804,0.625,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.
+FTE,Student,user,inductive,40,37363,41,934.1,40,42,2000,16.4,94,152,326,111,0.6059,1.0,0.7634,,,Skipped by design: ETC precision on long user-level traces is computationally prohibitive.

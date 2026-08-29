@@ -1,0 +1,29 @@
+notion,dimension,test,comparison,n,statistic,p_raw,p_holm,effect_name,effect
+course,fitness,Friedman,alpha vs heuristic vs inductive,7,14.0,0.0009118819655545164,,Kendall_W,1.0
+course,fitness,Wilcoxon signed-rank,alpha vs heuristic,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+course,fitness,Wilcoxon signed-rank,alpha vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+course,fitness,Wilcoxon signed-rank,heuristic vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+course,precision,Friedman,alpha vs heuristic vs inductive,7,10.57142857142857,0.005063414171757498,,Kendall_W,0.7551020408163264
+course,precision,Wilcoxon signed-rank,alpha vs heuristic,7,13.0,0.9375,0.9375,rank_biserial,0.07142857142857142
+course,precision,Wilcoxon signed-rank,alpha vs inductive,7,0.0,0.015625,0.046875,rank_biserial,1.0
+course,precision,Wilcoxon signed-rank,heuristic vs inductive,7,0.0,0.015625,0.046875,rank_biserial,1.0
+course,generalization,Friedman,alpha vs heuristic vs inductive,7,14.0,0.0009118819655545164,,Kendall_W,1.0
+course,generalization,Wilcoxon signed-rank,alpha vs heuristic,7,0.0,0.015625,0.046875,rank_biserial,1.0
+course,generalization,Wilcoxon signed-rank,alpha vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+course,generalization,Wilcoxon signed-rank,heuristic vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+course,simplicity,Friedman,alpha vs heuristic vs inductive,7,14.0,0.0009118819655545164,,Kendall_W,1.0
+course,simplicity,Wilcoxon signed-rank,alpha vs heuristic,7,0.0,0.015625,0.046875,rank_biserial,1.0
+course,simplicity,Wilcoxon signed-rank,alpha vs inductive,7,0.0,0.015625,0.046875,rank_biserial,1.0
+course,simplicity,Wilcoxon signed-rank,heuristic vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+user,fitness,Friedman,alpha vs heuristic vs inductive,7,14.0,0.0009118819655545164,,Kendall_W,1.0
+user,fitness,Wilcoxon signed-rank,alpha vs heuristic,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+user,fitness,Wilcoxon signed-rank,alpha vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+user,fitness,Wilcoxon signed-rank,heuristic vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+user,generalization,Friedman,alpha vs heuristic vs inductive,7,11.142857142857139,0.00380504077551137,,Kendall_W,0.7959183673469384
+user,generalization,Wilcoxon signed-rank,alpha vs heuristic,7,0.0,0.015625,0.046875,rank_biserial,1.0
+user,generalization,Wilcoxon signed-rank,alpha vs inductive,7,6.0,0.21875,0.21875,rank_biserial,-0.5714285714285714
+user,generalization,Wilcoxon signed-rank,heuristic vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
+user,simplicity,Friedman,alpha vs heuristic vs inductive,7,14.0,0.0009118819655545164,,Kendall_W,1.0
+user,simplicity,Wilcoxon signed-rank,alpha vs heuristic,7,0.0,0.015625,0.046875,rank_biserial,1.0
+user,simplicity,Wilcoxon signed-rank,alpha vs inductive,7,0.0,0.015625,0.046875,rank_biserial,1.0
+user,simplicity,Wilcoxon signed-rank,heuristic vs inductive,7,0.0,0.015625,0.046875,rank_biserial,-1.0
